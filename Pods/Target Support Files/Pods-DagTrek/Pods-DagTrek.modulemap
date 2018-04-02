@@ -1,0 +1,6 @@
+framework module Pods_DagTrek {
+  umbrella header "Pods-DagTrek-umbrella.h"
+
+  export *
+  module * { export * }
+}
